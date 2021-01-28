@@ -121,13 +121,5 @@ let chatMessageSave = (messageHeader + chatSave);
 		return;
 	}
 
-//Platz für Programm
-
-/* ChatMessage.create({
-	whisper: ChatMessage.getWhisperRecipients("GM"),
-	content: "DC gegen den gewürfelt werden soll:"
-}) */
-
-
 ueberblickDialog();
 
