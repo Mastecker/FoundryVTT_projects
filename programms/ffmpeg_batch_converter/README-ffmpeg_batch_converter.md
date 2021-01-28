@@ -18,8 +18,8 @@ DO NOT EXECUTE IN A FOLDER WITH DATA YOU DON´T WANT TO CONVERT/DELETE!
 3. Execute the .bat
 
 ### Example
-![overview](https://github.com/Mastecker/ffmpeg-batch-converter/blob/main/pictures/overview.png)
-![usage](https://github.com/Mastecker/ffmpeg-batch-converter/blob/main/pictures/usage.png)
+![overview](https://raw.githubusercontent.com/Mastecker/FoundryVTT_projects/main/programms/ffmpeg_batch_converter/pictures/overview.png)
+![usage](https://raw.githubusercontent.com/Mastecker/FoundryVTT_projects/main/programms/ffmpeg_batch_converter/pictures/usage.png)
 
 
 ## Notes
